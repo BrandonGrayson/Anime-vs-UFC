@@ -17,3 +17,13 @@ Choose a video to watch first, After click the other side
 <img width="1235" alt="Screen Shot 2020-12-15 at 11 07 12 PM" src="https://user-images.githubusercontent.com/64443434/102304771-3e398500-3f2c-11eb-9bff-a2771db2fe8c.png">
 
 Once both videos have been watched its time for the user to decide who wins
+
+<img width="1239" alt="Screen Shot 2020-12-15 at 11 07 30 PM" src="https://user-images.githubusercontent.com/64443434/102304862-7f319980-3f2c-11eb-8154-5477c12a9d18.png">
+
+### Contributors
+Luke Martin, Eric Mitchell, Brandon Grayson
+
+#### Links
+https://github.com/BrandonGrayson/Anime-vs-UFC
+https://brandongrayson.github.io/Anime-vs-UFC/
+
