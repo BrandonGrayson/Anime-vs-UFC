@@ -1,1 +1,29 @@
 # Anime-vs-UFC
+
+## Installation 
+Welcome to Anime vs MMA this app was designed to combine the experience of live action mma fights with the spectacular animation of anime
+
+When you arrive at our site you'll land at the homepage
+
+<img width="985" alt="Screen Shot 2020-12-15 at 11 06 13 PM" src="https://user-images.githubusercontent.com/64443434/102304496-958b2580-3f2b-11eb-859c-38febc0cc9b3.png">
+
+Press Start to initiate the game and send the contestants to their corners
+
+<img width="1281" alt="Screen Shot 2020-12-15 at 11 06 36 PM" src="https://user-images.githubusercontent.com/64443434/102304610-dedb7500-3f2b-11eb-8dc6-cdd82eed653f.png">
+
+Choose a video to watch first, After click the other side
+
+
+<img width="1235" alt="Screen Shot 2020-12-15 at 11 07 12 PM" src="https://user-images.githubusercontent.com/64443434/102304771-3e398500-3f2c-11eb-9bff-a2771db2fe8c.png">
+
+Once both videos have been watched its time for the user to decide who wins
+
+<img width="1239" alt="Screen Shot 2020-12-15 at 11 07 30 PM" src="https://user-images.githubusercontent.com/64443434/102304862-7f319980-3f2c-11eb-8154-5477c12a9d18.png">
+
+### Contributors
+Luke Martin, Eric Mitchell, Brandon Grayson
+
+#### Links
+https://github.com/BrandonGrayson/Anime-vs-UFC
+https://brandongrayson.github.io/Anime-vs-UFC/
+
