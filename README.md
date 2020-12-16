@@ -12,3 +12,8 @@ Press Start to initiate the game and send the contestants to their corners
 <img width="1281" alt="Screen Shot 2020-12-15 at 11 06 36 PM" src="https://user-images.githubusercontent.com/64443434/102304610-dedb7500-3f2b-11eb-8dc6-cdd82eed653f.png">
 
 Choose a video to watch first, After click the other side
+
+
+<img width="1235" alt="Screen Shot 2020-12-15 at 11 07 12 PM" src="https://user-images.githubusercontent.com/64443434/102304771-3e398500-3f2c-11eb-9bff-a2771db2fe8c.png">
+
+Once both videos have been watched its time for the user to decide who wins
